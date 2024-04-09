@@ -16,7 +16,7 @@ body {
 .txt {
   position: absolute;
   top: 60%;
-  left: 46%;
+  left: 48%;
   color: #A020F0;
   z-index: 1;
 }
@@ -74,7 +74,7 @@ body {
   width: 6.25em;
 }
 .heart {
-  background-color: #cd4036;
+  background-color: #FFC0CB;
   height: 2.5em;
   width: 2.5em;
   position: absolute;
@@ -92,7 +92,7 @@ body {
   content: "";
   height: 60%;
   width: 100%;
-  background-color: #cd4036;
+  background-color: #FFC0CB;
   border-radius: 4.68em 4.68em 0 0;
 }
 .heart:before {
