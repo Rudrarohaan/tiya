@@ -15,9 +15,9 @@ body {
 }
 .txt {
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 49%;
-  color: #A020F0;
+  color: #0029DB;
   z-index: 1;
 }
 .container {
