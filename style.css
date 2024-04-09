@@ -16,7 +16,7 @@ body {
 .txt {
   position: absolute;
   top: 50%;
-  left: 40%;
+  left: 50%;
   color: #e90c9f;
   z-index: 1;
 }
